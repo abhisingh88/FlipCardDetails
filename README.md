@@ -1,0 +1,2 @@
+# FlipCardDetails
+Created with CodeSandbox
